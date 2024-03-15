@@ -1,0 +1,8 @@
+/* navbar.component.css */
+.navbar-nav .nav-link {
+  color: #fff; /* Set text color to white */
+}
+
+.navbar-nav .nav-link.active {
+  font-weight: bold; /* Bold font for active link */
+}
